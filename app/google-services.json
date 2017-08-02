@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "863814862836",
+    "firebase_url": "https://workoutdb-cb14e.firebaseio.com",
+    "project_id": "workoutdb-cb14e",
+    "storage_bucket": "workoutdb-cb14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863814862836:android:d6ac2b846f6acf0f",
+        "android_client_info": {
+          "package_name": "sadika.roi.workoutdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863814862836-vsjd0n2dk6i9s61gmacfvv4ki1lcagan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sadika.roi.workoutdb",
+            "certificate_hash": "753137a30bbd2e23a0d2c4634c591a782bc00f9f"
+          }
+        },
+        {
+          "client_id": "863814862836-8j75hstv425ks0rlv5iddrolcblvv28b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFrUoCX6MjToBN119gJRylPczg-uuexg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863814862836-8j75hstv425ks0rlv5iddrolcblvv28b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
